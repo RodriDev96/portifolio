@@ -1,0 +1,20 @@
+
+
+*{
+    margin: 0px;
+    background-color: rgb(220, 236, 245);
+    
+    
+}
+
+
+h1{
+    border: 1px solid red;
+    margin: 150px;
+    padding: 50px;
+    color: rgb(43, 255, 0);
+}
+strong{
+color: red;
+
+}
